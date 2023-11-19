@@ -6,7 +6,11 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="D:/Materi Kuliah/Semester 5/OOAD/LAB/Library/mysql-connector-java-8.0.24.jar">
+=======
+	<classpathentry kind="lib" path="E:/Kuliah/Binus/Semester/Semester 5/Lab/Object Oriented Analysis &amp; Design/Project/Library/mysql-connector-java-8.0.24.jar">
+>>>>>>> branch 'master' of https://github.com/WTaroki/OOAD_LAB.git
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
